@@ -1,6 +1,6 @@
 /*Count the number of occurrencies of each word in a string*/
 
-package map;
+package count_word_occurencies;
 
 import java.util.HashMap;
 import java.util.Map;
